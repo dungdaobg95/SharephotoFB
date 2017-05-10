@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharephotoFB</string>
+    <string name="facebook_app_id">283834662064539</string>
+
+    <string name="fb_login_protocol_scheme">fb283834662064539</string>
+
+</resources>
